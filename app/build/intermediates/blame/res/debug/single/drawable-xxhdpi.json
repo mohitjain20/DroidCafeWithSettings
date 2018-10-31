@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_fab_white.png",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/drawable-xxhdpi/ic_fab_white.png"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorites_white.png",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/drawable-xxhdpi/ic_favorites_white.png"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_map.png",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/drawable-xxhdpi/ic_map.png"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_order_white.png",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/drawable-xxhdpi/ic_order_white.png"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_status_white.png",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/drawable-xxhdpi/ic_status_white.png"
+    }
+]

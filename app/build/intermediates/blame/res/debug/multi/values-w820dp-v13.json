@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 853,
+                        "endColumn": 57,
+                        "endOffset": 906
+                    }
+                }
+            }
+        ]
+    }
+]

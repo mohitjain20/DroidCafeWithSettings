@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/xml/pref_data_sync.xml",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/xml/pref_general.xml",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/xml/pref_headers.xml",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/res/merged/debug/xml/pref_notification.xml",
+        "source": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/src/main/res/xml/pref_notification.xml"
+    }
+]

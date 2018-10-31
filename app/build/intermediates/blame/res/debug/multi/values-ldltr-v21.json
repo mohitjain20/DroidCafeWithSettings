@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/mohit/Documents/android fundamentals/android-fundamentals-2e37ed856242190e805ba3fd7b5cb6ac9f7e5714/DroidCafeWithSettings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
