@@ -169,5 +169,14 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), message, Toast.LENGTH_SHORT).show();
     }
 
-   
+    public void displayMap() {
+        Intent intent = new Intent();
+        intent.setAction(Intent.ACTION_VIEW);
+        // Using the coordinates for Google headquarters.
+        String data = getString(R.string.google_mtv_coord_zoom12);
+        intent.setData(Uri.parse(data));
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
+    }
 }
